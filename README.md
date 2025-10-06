@@ -49,7 +49,7 @@ I enjoy building intelligent automation workflows with UiPath and developing dyn
 | **Frontend** | HTML, CSS, JavaScript, React |
 | **Backend** | Node.js, Express.js |
 | **Database** | MySQL, MongoDB |
-| **Programming** | JavaScript, C++, SQL |
+| **Programming** | C++, SQL |
 | **Data Handling** | Excel Automation, Web Scraping, API Integration |
 | **Version Control** | Git, GitHub |
 
