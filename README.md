@@ -69,7 +69,7 @@ I enjoy building intelligent automation workflows with UiPath and developing dyn
 
 - 🌍 **GitHub**: [ItsMe-Anurag](https://github.com/ItsMe-Anurag)  
 - 💼 **LinkedIn**: [Anurag Kumar](https://www.linkedin.com/in/anurag1224)  
-- ✉️ **Email**: anurag@example.com *(replace with your real one)*  
+- ✉️ **Email**: anurag1224kumar@gmail.com
 
 ---
 
